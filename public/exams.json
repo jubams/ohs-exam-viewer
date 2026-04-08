@@ -1,0 +1,1160 @@
+[
+  {
+    "exam_name": "mid-2024-b",
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "What is the ultimate goal of the OHS Act?",
+        "options": {
+          "a": "To promote economic growth",
+          "b": "To ensure workers' safety and health",
+          "c": "To monitor workplace attendance",
+          "d": "To enforce training standards"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 2,
+        "question_text": "What does OSHA stand for?",
+        "options": {
+          "a": "Occupational Safety and Health Administration",
+          "b": "Occupational Standards for Hazard Analysis",
+          "c": "Organizational Safety and Hazard Awareness",
+          "d": "Operational Safety Hazard Act"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 3,
+        "question_text": "What is considered a worker's basic right under the OHS Act?",
+        "options": {
+          "a": "Access to advanced training courses",
+          "b": "A workplace free from recognized hazards",
+          "c": "Full health insurance coverage",
+          "d": "Flexible working hours"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 4,
+        "question_text": "Which of the following is an example of a hazard?",
+        "options": {
+          "a": "Worn-out machinery",
+          "b": "Properly maintained scaffolding",
+          "c": "Employee safety training",
+          "d": "Daily production schedules"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 5,
+        "question_text": "How does ALARP apply to management?",
+        "options": {
+          "a": "It ensures that risks are eliminated entirely",
+          "b": "It reduces risks to a practicable minimum level.",
+          "c": "It guarantees financial compensation for hazards.",
+          "d": "It transfers responsibility to supervisors."
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 6,
+        "question_text": "Which of the following is NOT a factor in defining risk?",
+        "options": {
+          "a": "Hazard severity",
+          "b": "Likelihood of occurrence",
+          "c": "Worker education",
+          "d": "Exposure duration"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 7,
+        "question_text": "What is the specific responsibility of workers under the OHS Act?",
+        "options": {
+          "a": "Reporting safety hazards to the employer",
+          "b": "Inspecting workplace machinery",
+          "c": "Enforcing OSHA standards",
+          "d": "Conducting risk assessments"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 8,
+        "question_text": "Employers must provide training for employees when:",
+        "options": {
+          "a": "Workers request it",
+          "b": "Required by OSHA standards",
+          "c": "New machinery is installed",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 9,
+        "question_text": "What is a worker's primary responsibility regarding PPE?",
+        "options": {
+          "a": "Purchasing necessary equipment",
+          "b": "Using PPE correctly as provided",
+          "c": "Reporting PPE malfunctions to OSHA",
+          "d": "Repairing damaged PPE"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 10,
+        "question_text": "Which of the following is NOT a type of OSHA violation?",
+        "options": {
+          "a": "Imminent danger",
+          "b": "Serious violation",
+          "c": "Record-keeping lapse",
+          "d": "Inspection request"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 11,
+        "question_text": "Why might OSHA conduct an unannounced inspection?",
+        "options": {
+          "a": "To ensure compliance with reporting rules",
+          "b": "Due to an employee complaint",
+          "c": "As a routine check in high-risk industries",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 12,
+        "question_text": "What is the primary purpose of fire extinguishers?",
+        "options": {
+          "a": "Control large fires in industrial settings",
+          "b": "Provide first-response fire suppression",
+          "c": "Prevent the spread of smoke",
+          "d": "Replace sprinkler systems"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 13,
+        "question_text": "What is the final stage of fire development?",
+        "options": {
+          "a": "Decay",
+          "b": "Flashover",
+          "c": "Fully developed",
+          "d": "Growth"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 14,
+        "question_text": "Which fire class involves metals such as magnesium and sodium?",
+        "options": {
+          "a": "Class A",
+          "b": "Class B",
+          "c": "Class D",
+          "d": "Class F"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 15,
+        "question_text": "Which of the following is considered a form of PPE?",
+        "options": {
+          "a": "Safety goggles",
+          "b": "Fire alarms",
+          "c": "Work uniforms",
+          "d": "First aid kits"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 16,
+        "question_text": "If a worker observes an unsafe condition, their first action should be to:",
+        "options": {
+          "a": "Inform their supervisor or safety team",
+          "b": "Continue working cautiously",
+          "c": "File a report directly with OSHA",
+          "d": "Wait for another worker to report it"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 17,
+        "question_text": "What is the key principle of the Stop-Call-Wait rule?",
+        "options": {
+          "a": "Employees must stop unsafe work and inform the supervisor.",
+          "b": "Employees should report hazards after completing tasks.",
+          "c": "Supervisors must stop work until an inspection occurs.",
+          "d": "Workers must wait for written employer instructions."
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 18,
+        "question_text": "During an OSHA inspection, workers may:",
+        "options": {
+          "a": "Be penalized for reporting issues",
+          "b": "Join the inspector and share concerns",
+          "c": "Avoid wearing PPE during the inspection",
+          "d": "Decline to participate"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 19,
+        "question_text": "Which of the following is a key component of the fire tetrahedron?",
+        "options": {
+          "a": "Fuel",
+          "b": "Smoke",
+          "c": "Foam",
+          "d": "Alarm system"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 20,
+        "question_text": "What is the primary lesson from major industrial disasters?",
+        "options": {
+          "a": "Proper enforcement of safety standards can prevent accidents.",
+          "b": "Hazards in high-risk industries are unavoidable.",
+          "c": "Training programs should only focus on senior workers.",
+          "d": "PPE eliminates the need for regular safety inspections."
+        },
+        "correct_answer": "a"
+      }
+    ]
+  },
+  {
+    "exam_name": "mid-2022-b Muge HOCA",
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "What is the best way of dealing with a hazard to ensure others are not put at risk?",
+        "options": {
+          "a": "Protection at source",
+          "b": "Place a barrier tape around it",
+          "c": "Display a notice or warning sign",
+          "d": "Leave it for others to sort out"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 2,
+        "question_text": "Which of the following definition is \"the exposure limit values\"?",
+        "options": {
+          "a": "maximum value of the C-weighting sound pressure in pascals (Pa) to which a person is exposed during the working day",
+          "b": "daily equivalent A-weighted sound level, expressed in dB (A)",
+          "c": "the levels of noise above which employees may not be exposed",
+          "d": "the noise exposure levels at which certain actions are required"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 3,
+        "question_text": "Which of the following definition is \"the exposure action values\"?",
+        "options": {
+          "a": "maximum value of the C-weighting sound pressure in pascals (Pa) to which a person is exposed during the working day",
+          "b": "daily equivalent A-weighted sound level, expressed in dB (A)",
+          "c": "the levels of noise above which employees may not be exposed",
+          "d": "the noise exposure levels at which certain actions are required"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 4,
+        "question_text": "Which of the following is wrong according to the Control of Noise at Work Regulation?",
+        "options": {
+          "a": "If exposure cannot be reduced by other means, and is likely to above the upper EAV, then ear protection must be provided by the employer and used by employees",
+          "b": "Health surveillance is required if the risk assessment indicates that there is a risk to health from noise (those regularly exposed above the upper EAV) without taking account of noise reduction from use of hearing protectors",
+          "c": "Information, instruction, and training must not be provided for those exposed at or the lower EAV",
+          "d": "A formal risk assessment is necessary at or above the lower EAV"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 5,
+        "question_text": "Which of the following is wrong according to the risk assesment to control noise at work?",
+        "options": {
+          "a": "Systematically identify noise sources having high sound pressure",
+          "b": "Identify individuals exposed to noise",
+          "c": "For those exposed to noise determine daily exposure pattern and exposure duration",
+          "d": "Estimate likely exposure (daily and peak) to noise and compare with limit and action values."
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 6,
+        "question_text": "Which of the following is wrong according to the risk management to control noise at work?",
+        "options": {
+          "a": "Review the following; actual work practices, exposure assessments, health surveillance data, finding from workplace inspections, individual complaints related to noise exposure and new ways to reduce risk",
+          "b": "Provide health surveillance (audiometry) only for those above 45 years old",
+          "c": "Give employees information and training on safe work practices and hearing protection",
+          "d": "Maintain noise control equipment and hearing protection"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 7,
+        "question_text": "Which of the following is one of the common sources of hand-transmitted vibration?",
+        "options": {
+          "a": "vans",
+          "b": "fork-lift",
+          "c": "trucks excavators",
+          "d": "chainsaws"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which of the following is one of the common sources of whole body vibration?",
+        "options": {
+          "a": "concrete breakers",
+          "b": "hand-held grinders",
+          "c": "metal polishers",
+          "d": "trains"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 9,
+        "question_text": "Which of the following is wrong according to the potential health effects of whole body vibration?",
+        "options": {
+          "a": "The best recognized effects are on the lumbar spine—non-specific low-back pain (LBP), sciatica, lumbar disc degeneration.",
+          "b": "A systematic review by NIOSH (1997) described evidence on the association with LBP as 'strong' (15 of 19 studies positive), but there is less certainty about the dose-response relationship.",
+          "c": "Other suggested effects include: neck pain and cervical disc degeneration; autonomic disturbance; and disorders of balance and digestion.",
+          "d": "Motion sickness is not recognized."
+        },
+        "correct_answer": "d"
+      }
+    ]
+  },
+  {
+    "exam_name": "mid-2025-a",
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "What is the main purpose of Occupational Health and Safety (OHS)?",
+        "options": {
+          "A": "To increase employee productivity",
+          "B": "To save lives, prevent injuries, and protect worker health",
+          "C": "To enforce legal standards on employers",
+          "D": "To limit the use of hazardous materials",
+          "E": "To reduce company expenses"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 2,
+        "question_text": "What is a fire drill?",
+        "options": {
+          "A": "A real fire event",
+          "B": "A tool for fighting fires",
+          "C": "A training exercise to practice safe evacuation",
+          "D": "A fire alarm sound test only",
+          "E": "A security inspection"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 3,
+        "question_text": "According to the OSH Act, who is primarily responsible for workplace safety?",
+        "options": {
+          "A": "The police",
+          "B": "The government",
+          "C": "The visitors",
+          "D": "The worker",
+          "E": "The employer"
+        },
+        "correct_answer": "E"
+      },
+      {
+        "question_number": 4,
+        "question_text": "Which of the following best defines a \"hazard\"?",
+        "options": {
+          "A": "The result of an accident",
+          "B": "Something that may cause harm or damage",
+          "C": "A workplace rule",
+          "D": "A risk that already happened",
+          "E": "A scheduled emergency drill"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 5,
+        "question_text": "What is the correct formula for calculating risk?",
+        "options": {
+          "A": "Risk = Fire + Smoke",
+          "B": "Risk = Workers × Tools",
+          "C": "Risk = Consequence × Likelihood",
+          "D": "Risk = Time - Distance",
+          "E": "Risk = Training × Reporting"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 6,
+        "question_text": "What is a “tolerable risk”?",
+        "options": {
+          "A": "A risk that has no impact",
+          "B": "A risk level that can be accepted",
+          "C": "A risk that only affects property",
+          "D": "A risk that is invisible",
+          "E": "A risk caused only by machines"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 7,
+        "question_text": "What is the first step when using a fire extinguisher according to PASS method?",
+        "options": {
+          "A": "Pull the pin",
+          "B": "Sweep side to side",
+          "C": "Squeeze the lever",
+          "D": "Sound the alarm",
+          "E": "Press the nozzle"
+        },
+        "correct_answer": "A"
+      },
+      {
+        "question_number": 8,
+        "question_text": "What does the acronym ALARP stand for?",
+        "options": {
+          "A": "All Levels Are Regulated and Protected",
+          "B": "As Little As Risk Possible",
+          "C": "As Low As Reasonably Practicable",
+          "D": "Avoid Large And Risky Processes",
+          "E": "All Laws Are Risk Proof"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 9,
+        "question_text": "Which fire class includes cooking oils and fats?",
+        "options": {
+          "A": "Class A",
+          "B": "Class C",
+          "C": "Class B",
+          "D": "Class F",
+          "E": "Class D"
+        },
+        "correct_answer": "D"
+      },
+      {
+        "question_number": 10,
+        "question_text": "What should workers do in case of unsafe situations or conditions?",
+        "options": {
+          "A": "Continue working until break time",
+          "B": "Ignore the problem",
+          "C": "Apply the Stop-Call-Wait rule",
+          "D": "Call the police directly",
+          "E": "Ask a co-worker for help quietly"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 11,
+        "question_text": "According to the OSH Act, who is primarily responsible for workplace safety?",
+        "options": {
+          "A": "The police",
+          "B": "The government",
+          "C": "The employer",
+          "D": "The worker",
+          "E": "The visitors"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 12,
+        "question_text": "What should a worker do if they discover a fire?",
+        "options": {
+          "A": "Run away silently",
+          "B": "Continue working",
+          "C": "Fight it without help",
+          "D": "Raise the alarm and evacuate safely",
+          "E": "Call a friend"
+        },
+        "correct_answer": "D"
+      },
+      {
+        "question_number": 13,
+        "question_text": "Which of the following is NOT a worker right under the OSH Act?",
+        "options": {
+          "A": "Right to a safe workplace",
+          "B": "Right to ignore safety rules",
+          "C": "Right to report a hazard",
+          "D": "Right to participate in inspections",
+          "E": "Right to access training"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 14,
+        "question_text": "What is the main cause of fatalities during fires?",
+        "options": {
+          "A": "Lack of fire alarms",
+          "B": "Loud noise",
+          "C": "Burns from hot objects",
+          "D": "Smoke inhalation",
+          "E": "Flooding"
+        },
+        "correct_answer": "D"
+      },
+      {
+        "question_number": 15,
+        "question_text": "Which of the following is true about fire extinguishers?",
+        "options": {
+          "A": "They are used only by professional firefighters",
+          "B": "All types are safe to use on electrical fires",
+          "C": "They are considered first-aid firefighting equipment",
+          "D": "They only work with water",
+          "E": "They can be thrown to extinguish flames"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 16,
+        "question_text": "Which class of fire involves flammable gases like propane and butane?",
+        "options": {
+          "A": "Class A",
+          "B": "Class B",
+          "C": "Class C",
+          "D": "Class D",
+          "E": "Class F"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 17,
+        "question_text": "What does the fire extinguisher acronym “PASS” stand for?",
+        "options": {
+          "A": "Protect – Alert – Stop – Secure",
+          "B": "Pull – Aim – Squeeze – Sweep",
+          "C": "Push – Alert – Shout – Spray",
+          "D": "Point – Activate – Spray – Stay",
+          "E": "Pull – Act – Shout – Squeeze"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 18,
+        "question_text": "Who is responsible for providing Personal Protective Equipment (PPE)?",
+        "options": {
+          "A": "Workers themselves",
+          "B": "Safety inspectors",
+          "C": "The employer",
+          "D": "The local government",
+          "E": "Emergency responders"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 19,
+        "question_text": "What is the main difference between hazard and risk?",
+        "options": {
+          "A": "Hazard is a possibility; risk is a legal issue",
+          "B": "Hazard causes damage; risk measures the chance of damage",
+          "C": "Hazard is invisible; risk is visible",
+          "D": "Hazard is a worker; risk is an employer",
+          "E": "Hazard is about paperwork; risk is about fire"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 20,
+        "question_text": "I. Elimination\nII. Administrative\nIII. Personal Protective Equipment\nIV. Substitution\nV. Engineering controls\n\nWhat is the correct order of Hierarchy of Risk Control?",
+        "options": {
+          "A": "I-II-V-IV-III",
+          "B": "I-II-III-IV-V",
+          "C": "I-IV-V-II-III",
+          "D": "I-IV-V-III-II",
+          "E": "II-I-III-V-IV"
+        },
+        "correct_answer": "C"
+      }
+    ]
+  },
+  {
+    "exam_name": "mid-2025-b",
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Which of the following is NOT a worker right under the OSH Act?",
+        "options": {
+          "A": "Right to a safe workplace",
+          "B": "Right to ignore safety rules",
+          "C": "Right to report a hazard",
+          "D": "Right to participate in inspections",
+          "E": "Right to access training"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 2,
+        "question_text": "What does the acronym ALARP stand for?",
+        "options": {
+          "A": "All Levels Are Regulated and Protected",
+          "B": "As Little As Risk Possible",
+          "C": "As Low As Reasonably Practicable",
+          "D": "Avoid Large And Risky Processes",
+          "E": "All Laws Are Risk Proof"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 3,
+        "question_text": "According to the OSH Act, who is primarily responsible for workplace safety?",
+        "options": {
+          "A": "The police",
+          "B": "The government",
+          "C": "The visitors",
+          "D": "The worker",
+          "E": "The employer"
+        },
+        "correct_answer": "E"
+      },
+      {
+        "question_number": 4,
+        "question_text": "I. Elimination\nII. Administrative controls\nIII. Personal Protective Equipment\nIV. Substitution\nV. Engineering controls\n\nWhat is the correct order of Hierarchy of Risk Control?",
+        "options": {
+          "A": "I-II-V-IV-III",
+          "B": "I-II-III-IV-V",
+          "C": "I-IV-V-II-III",
+          "D": "I-IV-V-III-II",
+          "E": "II-I-III-V-IV"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 5,
+        "question_text": "Which of the following is true about fire extinguishers?",
+        "options": {
+          "A": "They are used only by professional firefighters",
+          "B": "All types are safe to use on electrical fires",
+          "C": "They are considered first-aid firefighting equipment",
+          "D": "They only work with water",
+          "E": "They can be thrown to extinguish flames"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 6,
+        "question_text": "What is a “tolerable risk”?",
+        "options": {
+          "A": "A risk that has no impact",
+          "B": "A risk level that can be accepted",
+          "C": "A risk that only affects property",
+          "D": "A risk that is invisible",
+          "E": "A risk caused only by machines"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 7,
+        "question_text": "What is the main cause of fatalities during fires?",
+        "options": {
+          "A": "Lack of fire alarms",
+          "B": "Loud noise",
+          "C": "Burns from hot objects",
+          "D": "Smoke inhalation",
+          "E": "Flooding"
+        },
+        "correct_answer": "D"
+      },
+      {
+        "question_number": 8,
+        "question_text": "What is a fire drill?",
+        "options": {
+          "A": "A real fire event",
+          "B": "A tool for fighting fires",
+          "C": "A training exercise to practice safe evacuation",
+          "D": "A fire alarm sound test only",
+          "E": "A security inspection"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 9,
+        "question_text": "Which fire class includes cooking oils and fats?",
+        "options": {
+          "A": "Class A",
+          "B": "Class C",
+          "C": "Class B",
+          "D": "Class F"
+        },
+        "correct_answer": "D"
+      },
+      {
+        "question_number": 10,
+        "question_text": "What should workers do in case of unsafe situations or conditions?",
+        "options": {
+          "A": "Continue working until break time",
+          "B": "Ignore the problem",
+          "C": "Apply the Stop-Call-Wait rule",
+          "D": "Call the police directly",
+          "E": "Ask a co-worker for help quietly"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 11,
+        "question_text": "According to the OSH Act, who is primarily responsible for workplace safety?",
+        "options": {
+          "A": "The police",
+          "B": "The government",
+          "C": "The employer",
+          "D": "The worker",
+          "E": "The visitors"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 12,
+        "question_text": "What is the main difference between hazard and risk?",
+        "options": {
+          "A": "Hazard is a possibility; risk is a legal issue",
+          "B": "Hazard causes damage; risk measures the chance of damage",
+          "C": "Hazard is invisible; risk is visible",
+          "D": "Hazard is a worker; risk is an employer",
+          "E": "Hazard is about paperwork; risk is about fire"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 13,
+        "question_text": "What is the main purpose of Occupational Health and Safety (OHS)?",
+        "options": {
+          "A": "To increase employee productivity",
+          "B": "To save lives, prevent injuries, and protect worker health",
+          "C": "To enforce legal standards on employers",
+          "D": "To limit the use of hazardous materials",
+          "E": "To reduce company expenses"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 14,
+        "question_text": "What is the first step when using a fire extinguisher according to PASS method?",
+        "options": {
+          "A": "Pull the pin",
+          "B": "Sweep side to side",
+          "C": "Squeeze the lever",
+          "D": "Sound the alarm",
+          "E": "Press the nozzle"
+        },
+        "correct_answer": "A"
+      },
+      {
+        "question_number": 15,
+        "question_text": "What is the correct formula for calculating risk?",
+        "options": {
+          "A": "Risk = Fire + Smoke",
+          "B": "Risk = Workers × Tools",
+          "C": "Risk = Consequence × Likelihood",
+          "D": "Risk = Time - Distance",
+          "E": "Risk = Training × Reporting"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 16,
+        "question_text": "What should a worker do if they discover a fire?",
+        "options": {
+          "A": "Run away silently",
+          "B": "Continue working",
+          "C": "Fight it without help",
+          "D": "Raise the alarm and evacuate safely",
+          "E": "Call a friend"
+        },
+        "correct_answer": "D"
+      },
+      {
+        "question_number": 17,
+        "question_text": "What does the fire extinguisher acronym “PASS” stand for?",
+        "options": {
+          "A": "Protect – Alert – Stop – Secure",
+          "B": "Pull – Aim – Squeeze – Sweep",
+          "C": "Push – Alert – Shout – Spray",
+          "D": "Point – Activate – Spray – Stay",
+          "E": "Pull – Act – Shout – Squeeze"
+        },
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 18,
+        "question_text": "Who is responsible for providing Personal Protective Equipment (PPE)?",
+        "options": {
+          "A": "Workers themselves",
+          "B": "Safety inspectors",
+          "C": "The employer",
+          "D": "The local government",
+          "E": "Emergency responders"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 19,
+        "question_text": "Which class of fire involves flammable gases like propane and butane?",
+        "options": {
+          "A": "Class A",
+          "B": "Class B",
+          "C": "Class C",
+          "D": "Class D",
+          "E": "Class F"
+        },
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 20,
+        "question_text": "Which of the following best defines a \"hazard\"?",
+        "options": {
+          "A": "The result of an accident",
+          "B": "Something that may cause harm or damage",
+          "C": "A workplace rule",
+          "D": "A risk that already happened",
+          "E": "A scheduled emergency drill"
+        },
+        "correct_answer": "B"
+      }
+    ]
+  },
+  {
+    "exam_name": "Final-unknown-1",
+    "questions": [
+      {
+        "question_number": 1,
+        "question_text": "Which body parts are included in Group A of the REBA scoring system?",
+        "options": {
+          "a": "Trunk, neck, legs, and load/force",
+          "b": "Upper arms, lower arms, wrist, and coupling",
+          "c": "Neck, shoulders, upper arms, and hands",
+          "d": "Spine, feet, wrist, and load/force"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 2,
+        "question_text": "How is the final REBA score calculated?",
+        "options": {
+          "a": "By summing up individual body part scores directly",
+          "b": "By multiplying the Group A and Group B scores",
+          "c": "By combining Scores A, B, C, and the Activity Score",
+          "d": "By adding ergonomic equipment effectiveness"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 3,
+        "question_text": "Which of the following topics is NOT directly addressed by ergonomics?",
+        "options": {
+          "a": "Environmental sustainability",
+          "b": "Human-computer interaction",
+          "c": "System failures",
+          "d": "Safety and health"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 4,
+        "question_text": "Who is primarily responsible for ensuring workplace safety?",
+        "options": {
+          "a": "Workers",
+          "b": "Employers",
+          "c": "Supervisors only",
+          "d": "The government"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 5,
+        "question_text": "Which of the following is a result of poor organizational ergonomics?",
+        "options": {
+          "a": "Enhanced cognitive decision-making",
+          "b": "Shift work-related stress and burnout",
+          "c": "Better anthropometric data collection",
+          "d": "Improved safety in lifting tasks"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 6,
+        "question_text": "What is tolerable risk?",
+        "options": {
+          "a": "Any risk that is not fatal",
+          "b": "A hazard that cannot be controlled",
+          "c": "Risk with low financial loss",
+          "d": "Risk below a defined acceptable level"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 7,
+        "question_text": "What is the primary goal of ergonomics?",
+        "options": {
+          "a": "To increase costs in workplace design",
+          "b": "To optimize human wellbeing and system performance",
+          "c": "To reduce the need for teamwork",
+          "d": "To make tasks more difficult for workers"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which biological hazard group is unlikely to cause human disease?",
+        "options": {
+          "a": "Group 1",
+          "b": "Group 2",
+          "c": "Group 4",
+          "d": "Group 3"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 9,
+        "question_text": "Which fire class includes kitchen fires?",
+        "options": {
+          "a": "Unclassified",
+          "b": "Class C",
+          "c": "Class F",
+          "d": "Class D"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 10,
+        "question_text": "Organizational ergonomics aims to optimize:",
+        "options": {
+          "a": "Human-machine interaction",
+          "b": "Physical workload and posture",
+          "c": "Socio-technical systems, including work design and teamwork",
+          "d": "The design of tools and equipment"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 11,
+        "question_text": "What is ALARP?",
+        "options": {
+          "a": "A safety law",
+          "b": "As Low As Reasonably Practicable",
+          "c": "An employer responsibility",
+          "d": "A type of PPE"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 12,
+        "question_text": "What rights do workers have during OSHA inspections?",
+        "options": {
+          "a": "Accompany inspectors and provide input",
+          "b": "Halt all work until inspections are complete",
+          "c": "Request new employment terms",
+          "d": "Conduct inspections themselves"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 13,
+        "question_text": "What does the OHS Act require employers to do?",
+        "options": {
+          "a": "Pay workers for injury-related damages",
+          "b": "Provide safe working conditions free of recognized hazards",
+          "c": "Monitor employee attendance",
+          "d": "Train employees on customer satisfaction"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 14,
+        "question_text": "What does anthropometry in ergonomics measure?",
+        "options": {
+          "a": "Human body size and proportions",
+          "b": "Team communication",
+          "c": "Noise levels in the workplace",
+          "d": "Productivity levels"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 15,
+        "question_text": "I. Elimination\nII. Administrative controls\nIII. Personal Protective Equipment\nIV. Substitution\nV. Engineering controls\n\nWhat is the correct order of Hierarchy of Risk Control?",
+        "options": {
+          "a": "I-II-III-IV-V",
+          "b": "I-III-II-V-IV",
+          "c": "I-IV-V-II-III",
+          "d": "I-IV-V-II-III"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 16,
+        "question_text": "How is risk defined?",
+        "options": {
+          "a": "Severity divided by frequency",
+          "b": "Hazard minus exposure",
+          "c": "Consequence multiplied by likelihood",
+          "d": "Danger with minimal controls"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 17,
+        "question_text": "Which one is NOT a chemical hazard?",
+        "options": {
+          "a": "Gasoline",
+          "b": "Carbon monoxide",
+          "c": "Radiation",
+          "d": "Sulfuric acid"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 18,
+        "question_text": "Which domain of ergonomics focuses on mental processes like memory and perception?",
+        "options": {
+          "a": "Physical ergonomics",
+          "b": "Social ergonomics",
+          "c": "Organizational ergonomics",
+          "d": "Cognitive ergonomics"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 19,
+        "question_text": "Which of the following is wrong in case of general principles of protection from risks?",
+        "options": {
+          "a": "Avoiding risks",
+          "b": "Evaluating the risks which cannot be avoided",
+          "c": "Combating the risks at source",
+          "d": "Giving individual protective measures priority over collective protective measures."
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 20,
+        "question_text": "Which of the following is NOT a route of entry for biological hazards?",
+        "options": {
+          "a": "Inhalation",
+          "b": "Injection",
+          "c": "Radiation exposure",
+          "d": "Absorption"
+        },
+        "correct_answer": "c"
+      }
+    ]
+  },
+  {
+    "exam_name": "mid-unknown-2",
+    "questions": [
+      {
+        "question_number": 11,
+        "question_text": "What triggers an OSHA inspection?",
+        "options": {
+          "a": "Worker request",
+          "b": "Reports of imminent danger",
+          "c": "Fatalities or severe injuries",
+          "d": "All of the above"
+        },
+        "correct_answer": "d"
+      },
+      {
+        "question_number": 12,
+        "question_text": "What rights do workers have during OSHA inspections?",
+        "options": {
+          "a": "Accompany inspectors and provide input",
+          "b": "Halt all work until inspections are complete",
+          "c": "Request new employment terms",
+          "d": "Conduct inspections themselves"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 13,
+        "question_text": "What is a key element of the fire triangle?",
+        "options": {
+          "a": "Smoke",
+          "b": "Oxygen",
+          "c": "Water",
+          "d": "Carbon dioxide"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 14,
+        "question_text": "During which fire stage is oxygen plentiful and heat minimal?",
+        "options": {
+          "a": "Ignition",
+          "b": "Growth",
+          "c": "Fully developed",
+          "d": "Decay"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 15,
+        "question_text": "What method of heat transfer occurs through electromagnetic waves?",
+        "options": {
+          "a": "Convection",
+          "b": "Radiation",
+          "c": "Conduction",
+          "d": "Diffusion"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 16,
+        "question_text": "What should you do if you discover a fire?",
+        "options": {
+          "a": "Evacuate immediately",
+          "b": "Raise the alarm and fight the fire if safe",
+          "c": "Ensure fire exits are clear",
+          "d": "Notify OSHA"
+        },
+        "correct_answer": "b"
+      },
+      {
+        "question_number": 17,
+        "question_text": "What does the \"P\" in the PASS method for fire extinguishers stand for?",
+        "options": {
+          "a": "Pull the pin",
+          "b": "Push the lever",
+          "c": "Point the nozzle",
+          "d": "Position the extinguisher"
+        },
+        "correct_answer": "a"
+      },
+      {
+        "question_number": 18,
+        "question_text": "Which class of fire involves flammable gases?",
+        "options": {
+          "a": "Class A",
+          "b": "Class B",
+          "c": "Class C",
+          "d": "Class D"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 19,
+        "question_text": "What is the main purpose of fire drills?",
+        "options": {
+          "a": "Train workers in fire suppression techniques",
+          "b": "Identify faulty equipment",
+          "c": "Ensure efficient and safe evacuation",
+          "d": "Determine the best locations for fire extinguishers"
+        },
+        "correct_answer": "c"
+      },
+      {
+        "question_number": 20,
+        "question_text": "Who is responsible for providing PPE?",
+        "options": {
+          "a": "Workers",
+          "b": "Employers",
+          "c": "OSHA inspectors",
+          "d": "Union representatives"
+        },
+        "correct_answer": "b"
+      }
+    ]
+  }
+]
